@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterptringify",
+        "uuid": 13335730,
+        "checksum": "xgmhz"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
